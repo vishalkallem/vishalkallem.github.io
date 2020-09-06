@@ -102,6 +102,7 @@ li.normal {
 
 #heading {
     padding-left: 450px;
+    white-space: nowrap;
     font-family: 'Abhaya Libre', serif;
     font-size: 40px;
     font-weight: bolder;
