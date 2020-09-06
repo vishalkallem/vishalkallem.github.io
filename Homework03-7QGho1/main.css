@@ -64,7 +64,6 @@ li.normal {
     background-image: url("https://csci571.com/hw/hw3/images/Cutlery.png");
     height: 700px;
     width: 1200px;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +101,7 @@ li.normal {
 }
 
 #heading {
-    text-align: center;
+    padding-left: 450px;
     font-family: 'Abhaya Libre', serif;
     font-size: 40px;
     font-weight: bolder;
@@ -120,7 +119,7 @@ li.normal {
     align-content: space-between;
 }
 
-#image-container {
+#image-container {  
     background-color: rgb(164,225,233);
     height: 495px;
     width: 605px;
