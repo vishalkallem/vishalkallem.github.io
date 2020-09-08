@@ -62,10 +62,10 @@ li.normal {
 
 #parallax-effect {
     background-image: url("https://csci571.com/hw/hw3/images/Cutlery.png");
-    height: 725px;
+    height: 625px;
     width: 1350px;
     background-attachment: fixed;
-    background-position: 50px;
+    background-position: 50px -115px;
     background-repeat: no-repeat;
     background-size: 1200px;
 }
