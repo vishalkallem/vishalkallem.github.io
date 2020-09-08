@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-family: 'Helvetica Neue', serif;
+    font-family: 'Playfair Display SC', serif;
     padding-left: 50px;
     padding-top: 10px;
     font-size: 40px;
@@ -62,12 +62,12 @@ li.normal {
 
 #parallax-effect {
     background-image: url("https://csci571.com/hw/hw3/images/Cutlery.png");
-    height: 492px;
-    width: 1250px;
+    height: 725px;
+    width: 1350px;
     background-attachment: fixed;
-    background-position: fixed;
+    background-position: 50px;
     background-repeat: no-repeat;
-    background-size: 1250px 850px;
+    background-size: 1200px;
 }
 
 #content {
